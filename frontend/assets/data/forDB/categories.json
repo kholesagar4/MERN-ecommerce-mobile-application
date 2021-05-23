@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5f15d467f3a046427a1c26e1"
+  },
+  "name": "Mobile",
+  "__v": 0,
+  "color": "#F0E4E1",
+  "icon": "settings_cell"
+},{
+  "_id": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "name": "Beauty",
+  "__v": 0,
+  "color": "#F0E8DE",
+  "icon": "face"
+},{
+  "_id": {
+    "$oid": "5f15d54cf3a046427a1c26e3"
+  },
+  "name": "Computers",
+  "__v": 0,
+  "color": "#E1F0E7",
+  "icon": "computer"
+},{
+  "_id": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "name": "Home",
+  "__v": 0,
+  "color": "#E2E1F0",
+  "icon": "home"
+},{
+  "_id": {
+    "$oid": "5f88b12f071fce38bbaad5a5"
+  },
+  "name": "Cars",
+  "__v": 0,
+  "color": "#E2E1F0",
+  "icon": "commute"
+},{
+  "_id": {
+    "$oid": "5f9d7e938680aa1d979d7e19"
+  },
+  "name": "Games",
+  "__v": 0,
+  "color": null,
+  "icon": "games"
+}]
